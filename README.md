@@ -46,8 +46,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/querybloom-chatbot.git
-   cd querybloom-chatbot
+   git clone https://github.com/RiyyanKharal/Document-Chatbot.git
+   cd Document-Chatbot
    ```
 
 2. **Install dependencies**
